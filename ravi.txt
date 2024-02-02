@@ -2,3 +2,8 @@ RESET
 
 mr1
 ft1
+
+fth1
+fth2
+fth3
+fth4
